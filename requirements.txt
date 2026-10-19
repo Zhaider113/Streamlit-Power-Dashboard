@@ -1,0 +1,19 @@
+streamlit # web based app dasboard
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+altair
+# scikit-learn
+# scipy
+# tensorflow
+# keras
+# pytorch
+# flask
+# scikit-image
+# scikit-optimize
+
+
+#tkinter
+#pyinstaller     .exe for windows
